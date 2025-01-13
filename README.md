@@ -2,7 +2,6 @@
 
 - modelscrope：https://modelscope.cn/models/yujunhuinlp/Reyes-8B
 - github：https://github.com/yujunhuics/Reyes
-- 百度云（链接: https://pan.baidu.com/s/1ibF7JbJUOPH8Ii9hV02mrw 提取码: g55e）
 
 推理
 
