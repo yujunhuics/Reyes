@@ -1,5 +1,7 @@
 # Reyes（睿视）
 
+详细介绍：https://mp.weixin.qq.com/s/CH5FoRxoN6WHXPOMwG9gDA
+
 - modelscrope：https://modelscope.cn/models/yujunhuinlp/Reyes-8B
 - github：https://github.com/yujunhuics/Reyes
 
