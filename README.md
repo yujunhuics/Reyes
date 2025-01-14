@@ -10,7 +10,7 @@
 ## 推理
 
 
-使用方式：将本仓库中的`modeling_reyes.py`文件modelscrope下载的`modeling_reyes.py`运行即可。
+使用方式：将本仓库中的`modeling_reyes.py`文件替换modelscrope下载的`modeling_reyes.py`运行即可。
 batch推理详细见：`batch_inference.ipynb`
 
 
