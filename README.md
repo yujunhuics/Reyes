@@ -5,7 +5,18 @@
 - modelscrope：https://modelscope.cn/models/yujunhuinlp/Reyes-8B
 - github：https://github.com/yujunhuics/Reyes
 
-推理
+
+
+## 推理
+
+
+使用方式：将本仓库中的`modeling_reyes.py`文件modelscrope下载的`modeling_reyes.py`运行即可。
+batch推理详细见：`batch_inference.ipynb`
+
+
+
+
+- 串行推理
 
 ```python
 import torch
