@@ -250,6 +250,6 @@ if __name__ == '__main__':
     down_sample_ratio = 0.5
     dynamic_image_size = True
     num_image_token = 256
-    imagetokens = convert_image_token('/Users/yujunhui3/Desktop/yjh/code/layout_analysis/1self/NVLM/Reyes/NVLM-D.png')
+    imagetokens = convert_image_token('test.png')
     print(imagetokens)
 ```
